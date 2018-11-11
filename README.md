@@ -40,4 +40,6 @@ Vielleicht funktioniert das Abholen nur mit solchen Barcodes,
 die zu GoldCards gehören, die ab Werk mit dem Barcode kamen.
 
 Das ist maximal kundenunfreundlich und dient wie oben dargestellt __NICHT__
-dazu, die Sicherheit zu erhöhen.
+dazu, die Sicherheit zu erhöhen. Denn: Wenn man die zu dem Barcode
+gehörende PostNummer von Hand eintippt, kann man ohne Probleme mit
+dieser PostNummer abholen. Gerade getestet.
