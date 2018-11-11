@@ -41,7 +41,7 @@ Versucht man das, kommt die Meldung
 > Bitte wenden Sie sich per E-Mail an paket@dhl.de
 
 Vielleicht funktioniert das Abholen nur mit solchen Barcodes,
-die zu GoldCards gehören, die ab Werk mit dem Barcode kamen.
+die zu Goldcards gehören, die ab Werk mit dem Barcode kamen.
 
 Das ist maximal kundenunfreundlich und dient wie oben dargestellt __NICHT__
 dazu, die Sicherheit zu erhöhen. Denn: Wenn man die zu dem Barcode
