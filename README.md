@@ -24,3 +24,20 @@ Der 16-stellige ITF-Barcode ist relativ einfach aufgebaut:
 +”[Postnummer*631]”+”[Luhn-Prüfziffer über ‘Postnummer*631’]"
 http://www.frei-tag.com/index.php?/archives/445-DHL-Packstation-ohne-Goldcard.html
 ```
+
+Wie an anderer Stelle schon berichtet, ist mit diesem Barcode
+das __Versenden__ möglich. Das beweist, dass der Barcode richtig ist
+und an sich funktioniert.
+
+__NICHT__ möglich ist aber das __Abholen__.
+Versucht man das, kommt die Meldung
+
+> Die Anmeldung mit dieser PostNummer ist nicht möglich!
+> 
+> Bitte wenden Sie sich per E-Mail an paket@dhl.de
+
+Vielleicht funktioniert das Abholen nur mit solchen Barcodes,
+die zu GoldCards gehören, die ab Werk mit dem Barcode kamen.
+
+Das ist maximal kundenunfreundlich und dient wie oben dargestellt __NICHT__
+dazu, die Sicherheit zu erhöhen.
