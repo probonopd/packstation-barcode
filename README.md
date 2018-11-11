@@ -4,14 +4,18 @@ Erstellung von Barcodes für DHL Goldcard
 
 __Deutsche Post DHL hat einfach an Packstationen den Kartenleser
 ausgebaut und duch einen Barcodeleser ersetzt, ohne den
-Besitzern einer Goldcard automatisch rechtzeitig eine neue
-Karte zuzuschicken.__ Man kann aber weiterhin an solchen Stationen
+Besitzern einer mit Magnetstreifen ausgestatteten Goldcard 
+automatisch rechtzeitig eine neue Karte mit Barcode zuzuschicken.__ 
+
+Man kann aber weiterhin an solchen Stationen
 Pakete abholen, nur muss man jetzt die PostNummer manuell eintippen.
 
-Mit diesem Skript generieren wir uns den entsprechenden Barcode, da das
-Zusenden einer neuen Karte bei DHL beauftragt werden muss, die alte Karte
-in der Zwischenzeit sofort gesperrt wird und die neue bis zu 2 Wochen
-dauern kann. Das ist maximal kundenunfreundlich.
+Das Zusenden einer neuen Karte muss bei DHL beauftragt werden, was
+aber mit großen Umständen verbunden ist, da die alte Karte
+in der Zwischenzeit sofort gesperrt wird und die Zusendung der neuen
+bis zu 2 Wochen dauern kann. Das ist maximal kundenunfreundlich.
+
+Mit diesem Skript generieren wir uns den entsprechenden Barcode.
 
 Sicherheitstechnisch liegt kein Verstoß vor, da man durch Eintippen
 der PostNummer sowieso Pakete abholen kann und die Umrechnung von
