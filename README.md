@@ -1,8 +1,17 @@
 # packstation-barcode
 
+__Update 2023:
+Die Nutzung der Packtstation erfordert nun zwingend die Verwendung einer proprietären Closed Source App, die (offiziell) nur über den Google Play Store erhältlich ist, was die Zustimmung zu den Datenschutzbedingungen von Google (USA, Einflussbereich der NSA) erfordert, und zudem Tracker (u.a. Adobe Marketing Cloud in den USA) einsetzt:__
+
+__https://reports.exodus-privacy.eu.org/de/reports/de.dhl.paket/latest/__
+
+__Daher ist die Packtstation unbenutzbar geworden für Personen, die Closed Source Apps und Cloud Services im Einflussbereich der NSA ablehnen.__
+
+Das Mindeste wäre, dass die Post die Packstation App Open Source macht und auf https://f-droid.org/ veöffentlicht.
+
 Erstellung von Barcodes für DHL Goldcard
 
-__Deutsche Post DHL hat einfach an Packstationen den Kartenleser
+Deutsche Post DHL hat einfach an Packstationen den Kartenleser
 ausgebaut und duch einen Barcodeleser ersetzt, ohne den
 Besitzern einer mit Magnetstreifen ausgestatteten Goldcard 
 automatisch rechtzeitig eine neue Karte mit Barcode zuzuschicken.__ 
