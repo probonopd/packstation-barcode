@@ -18,7 +18,7 @@ Erstellung von Barcodes für DHL Goldcard
 Deutsche Post DHL hat einfach an Packstationen den Kartenleser
 ausgebaut und duch einen Barcodeleser ersetzt, ohne den
 Besitzern einer mit Magnetstreifen ausgestatteten Goldcard 
-automatisch rechtzeitig eine neue Karte mit Barcode zuzuschicken.__ 
+automatisch rechtzeitig eine neue Karte mit Barcode zuzuschicken.
 
 Man kann aber weiterhin an solchen Stationen
 Pakete abholen, nur muss man jetzt die PostNummer manuell eintippen.
