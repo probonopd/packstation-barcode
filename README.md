@@ -9,6 +9,10 @@ __Daher ist die Packtstation unbenutzbar geworden für Personen, die Closed Sour
 
 Das Mindeste wäre, dass die Post die Packstation App Open Source macht und auf https://f-droid.org/ veöffentlicht.
 
+Besser wäre, wieder zu einem System zu kommen, bei dem per Mail versendete Codes ausreichen.
+
+---
+
 Erstellung von Barcodes für DHL Goldcard
 
 Deutsche Post DHL hat einfach an Packstationen den Kartenleser
